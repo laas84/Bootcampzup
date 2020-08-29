@@ -80,7 +80,7 @@ Nesse dia, ao receber o e-mail, entendi a tarefa e analisei as palavras chaves p
 - Revisei as histórias com a técnica MOSCOW para saber quais iriam entrar na minha primeira sprint, quais mudariam a prioridade para próximas sprints e quais seriam descartadas
 - Definição das duas primeiras *sprints*
 - Inicio da ocumentação
-- Início da implementação do código Dia 1 da primeira *sprint*
+- Início da implementação do código
   - Criar pacotes Model; Service; Controller e Repository
   
 ###### Dia 4 - 27/08/2020
