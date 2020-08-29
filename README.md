@@ -64,7 +64,7 @@ Nesse dia, ao receber o e-mail, entendi a tarefa e analisei as palavras chaves p
 
 - Coleta de dados: O diferencial do instagram e suas funcionalidades
 - Entender como eu organizaria o Backlog do Produto e o que seria prioridade diante das funcionalidades que eu levantei
-- Estimei em 4 sprints o projeto, com a primeira release com 1 sprint (o código postado).
+- Estimei em 4 sprints o projeto, com a primeira *release* com 1 *sprint* (o código postado).
 
 ###### Dia 2 - 25/08/2020
 
@@ -73,10 +73,17 @@ Nesse dia, ao receber o e-mail, entendi a tarefa e analisei as palavras chaves p
 - Estimei as histórias
 - Quebrei as histórias em tarefas
 
-Dia 3 - 26/08/2020
+###### Dia 3 - 26/08/2020
+
+>*Dia 1 da primeira sprint*
 
 - Revisei as histórias com a técnica MOSCOW para saber quais iriam entrar na minha primeira sprint, quais mudariam a prioridade para próximas sprints e quais seriam descartadas
+- Definição das duas primeiras *sprints*
 - Inicio da ocumentação
+- Início da implementação do código Dia 1 da primeira *sprint*
+  - Criar pacotes Model; Service; Controller e Repository
+  
+###### Dia 4 - 27/08/2020
 
 
 
