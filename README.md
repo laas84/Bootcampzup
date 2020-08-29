@@ -2,8 +2,6 @@
 
 ##### Desenvolvedora
 
-<img src="C:\Users\laas8\OneDrive\Imagens\teste.jpg" style="zoom: 33%;" /> 
-
 [Luciana Araújo](https://github.com/laas84)
 
 
