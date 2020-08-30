@@ -79,12 +79,22 @@ Nesse dia, ao receber o e-mail, entendi a tarefa e analisei as palavras chaves p
 
 - Revisei as histórias com a técnica MOSCOW para saber quais iriam entrar na minha primeira sprint, quais mudariam a prioridade para próximas sprints e quais seriam descartadas
 - Definição das duas primeiras *sprints*
-- Inicio da ocumentação
+- Inicio da documentação
 - Início da implementação do código
+  - Criar e configurar projeto usando Spring 
   - Criar pacotes Model; Service; Controller e Repository
   
 ###### Dia 4 - 27/08/2020
 
-
+>*Dia 2 da primeira sprint*
+  - Criação de classes e interfaces
+  - Implementação de CRUD
+  - Estudo de documentação de Spring Security
+  
+ ###### Dia 5 - 28/08/2020 
+ 
+ >*Dia 3 da primeira sprint*
+  - Implementação da validação e segurança;
+  - Implementação do Swagger;
 
 **** PROXIMAS SPRINTS : TESTES e DTO explicar pq nao teve
