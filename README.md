@@ -8,7 +8,27 @@
 
 > Status do Projeto: Em desenvolvimento :warning:
 
+### Tópicos
 
+:ballot_box_with_check: Descrição do projeto
+
+:ballot_box_with_check:  O que a plataforma é capaz de fazer
+
+:ballot_box_with_check: Pré-requisitos
+
+:ballot_box_with_check: Como rodar a aplicação
+
+:ballot_box_with_check:  Database
+
+:ballot_box_with_check: CRUD​ 
+
+:ballot_box_with_check: Dependências e Libs instaladas​ 
+
+:ballot_box_with_check: Problemas encontrados​ 
+
+:ballot_box_with_check: ​  Tarefas em aberto
+
+:ballot_box_with_check: Diário de bordo
 
 #### Descrição do Projeto 
 
