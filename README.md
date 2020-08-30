@@ -125,7 +125,8 @@ O problema encontrado no projeto foi que, ao tentar acessar o swagger pela porta
 .and().csrf().disable()
 .sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS)
 ```
-O código foi revisado, reimplementado e o erro persistiu. Sem tempo hábil para demais soluções, visto que esse problema foi detectado no 4º dia da *Sprint* 1, ao analisar o quão primordial ela é para o andamento das próximas *Sprints*, foi decidido 
+O código foi revisado, reimplementado e o erro persistiu. Sem tempo hábil para demais soluções, visto que esse problema foi detectado no 4º dia da *Sprint* 1, ao analisar o quão primordial ela é para o andamento das próximas *Sprints*, foi decidido além da reimplementação do código em outro ambiente, também optei pela estratégia de *pair programming*, para que o desenvolvimento da aplicação não seja prejudicada por erro de código ou complexidade, além da detecção de bugs, partilha de conhecimento, velocidade em soluções e simplicidade.
+
 ### Diário de bordo
 
 ------
@@ -171,5 +172,7 @@ Nesse dia, ao receber o e-mail, entendi a tarefa e analisei as palavras chaves p
  >*Dia 3 da primeira sprint*
   - Implementação da validação e segurança;
   - Implementação do Swagger;
+
+
 
 **** PROXIMAS SPRINTS : TESTES e DTO explicar pq nao teve
