@@ -81,15 +81,25 @@ Desenvolver uma API com framework Spring que serve uma rede social chamada Insta
 #### Depências instaladas
 
 ###### Framework: Spring boot
-Data JPA 
-Security
-H2
-DevTools
+
+<p align="left">
+ <a href="#objetivo">Data JPA</a> •
+ <a href="#roadmap">Security</a> • 
+ <a href="#tecnologias">DevTools</a> • 
+ <a href="#contribuicao">H2</a> • 
+ </p>
+
 
 ###### Externas: 
-jjwt
-springfox-swagger2
-swagger-ui
+
+<p align="left">
+ <a href="#objetivo">Jjwt</a> •
+ <a href="#roadmap">springfox-swagger2</a> • 
+ <a href="#tecnologias">swagger-ui</a> • 
+ </p>
+
+
+
 
 ### Diário de bordo
 
