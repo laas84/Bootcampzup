@@ -103,9 +103,10 @@ Desenvolver uma API com framework Spring que serve uma rede social chamada Insta
 
 O problema encontrado no projeto foi ao tentar acessar o swagger pela porta 8080, ao acessar a url http://localhost:8080/swagger-ui.html o navegador direciona automaticamente para a url de login: http://localhost:8080/login , no entanto todas as alterações de código foram feitas na classe SecurityConfiguration.java: 
 
-`.and().csrf().disable()`
-`.sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS)`
-
+```
+.and().csrf().disable()
+.sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS)
+```
 
 ### Diário de bordo
 
