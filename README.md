@@ -20,7 +20,7 @@
 
 :ballot_box_with_check:  Database
 
-:ballot_box_with_check: CRUD​ 
+:ballot_box_with_check: Features​ 
 
 :ballot_box_with_check: Dependências e Libs instaladas​ 
 
