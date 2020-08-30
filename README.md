@@ -6,7 +6,7 @@
 
 
 
-> Status do Projeto: Em desenvolvimento :warning:
+> Status do Projeto: Em desenvolvimento 🚧
 
 ### Tópicos
 
