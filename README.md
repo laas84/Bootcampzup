@@ -78,7 +78,7 @@ Desenvolver uma API com framework Spring que serve uma rede social chamada Insta
 
 `` # Execute a aplicação em modo de desenvolvimento $ npm run dev:server ``
 
-`` # O servidor inciará na porta:8080 - acesse <[http://localhost:8080](http://localhost:8080/)> ``
+`` # O servidor inciará na porta:8080 - acesse <http://localhost:8080/> ``
 
 ### Diário de bordo
 
