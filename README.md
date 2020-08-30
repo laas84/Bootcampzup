@@ -14,7 +14,7 @@
 
 :ballot_box_with_check:  O que a plataforma é capaz de fazer
 
-:ballot_box_with_check: Pré-requisitos e omo rodar a aplicação
+:ballot_box_with_check: Pré-requisitos e como rodar a aplicação
 
 :ballot_box_with_check:  Database
 
@@ -64,13 +64,13 @@ Desenvolver uma API com framework Spring que serve uma rede social chamada Insta
 
 
 
-#### Pré-requisitos
+#### Pré-requisitos e como rodar a aplicação
 
 - [JDK14: Necessário para executar o projeto Java](https://www.oracle.com/java/technologies/javase-downloads.html)
 - [Spring Initializr : Para fornecer a interface com configurações pré estabelecidas](https://start.spring.io/)
 - [Eclipse:  IDE para desenvolvimento do projeto](https://www.eclipse.org/downloads/)
 
-
+```bash # Clone este repositório $ git clone <https://github.com/laas84/Bootcampzup.git> # Acesse a pasta do projeto no terminal/cmd $ cd git # Vá para a pasta server $ cd server  # Execute a aplicação em modo de desenvolvimento $ npm run dev:server # O servidor inciará na porta:8080 - acesse <[http://localhost:8080](http://localhost:8080/)> ```
 
 ### Diário de bordo
 
