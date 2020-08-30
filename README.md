@@ -18,6 +18,8 @@
 
 :ballot_box_with_check: Dependências instaladas​ 
 
+:ballot_box_with_check: Features​
+
 :ballot_box_with_check: Problemas encontrados​ 
 
 :ballot_box_with_check: ​  Tarefas em aberto
@@ -98,6 +100,19 @@ Desenvolver uma API com framework Spring que serve uma rede social chamada Insta
  <a href="#tecnologias">swagger-ui</a> • 
  </p>
 
+ ### Features  
+
+- [x] Conectar o  banco de dados ao código 
+- [x] Inserção de usuário
+- [ ] Validação de usuário
+- [x] Exclusão de usuário
+- [x] Postar conteúdo
+- [x] Editar conteúdo
+- [x] Buscar conteúdo
+- [x] Comentar conteúdo
+- [x] Excluir comentário
+- [x] Segurança da aplicação
+- [ ] Teste do mvp
 
 ### Problemas encontrados
 
