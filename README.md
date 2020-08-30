@@ -101,6 +101,8 @@ Desenvolver uma API com framework Spring que serve uma rede social chamada Insta
  </p>
 
  ### Features  
+ 
+> Tarefas planejadas na Sprint 1
 
 - [x] Conectar o  banco de dados ao código 
 - [x] Inserção de usuário
