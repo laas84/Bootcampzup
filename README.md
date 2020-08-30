@@ -70,10 +70,7 @@ Desenvolver uma API com framework Spring que serve uma rede social chamada Insta
 - [Spring Initializr : Para fornecer a interface com configurações pré estabelecidas](https://start.spring.io/)
 - [Eclipse:  IDE para desenvolvimento do projeto](https://www.eclipse.org/downloads/)
 
-``# Clone este repositório $ git clone <https://github.com/laas84/Bootcampzup.git> 
-# Acesse a pasta do projeto no terminal/cmd $ cd git # Vá para a pasta server $ cd server  
-# Execute a aplicação em modo de desenvolvimento $ npm run dev:server 
-# O servidor inciará na porta:8080 - acesse <[http://localhost:8080](http://localhost:8080/)>``
+`` # Clone este repositório $ git clone <https://github.com/laas84/Bootcampzup.git> # Acesse a pasta do projeto no terminal/cmd $ cd git # Vá para a pasta server $ cd server # Instale as dependências $ npm install # Execute a aplicação em modo de desenvolvimento $ npm run dev:server # O servidor inciará na porta:8080 - acesse <[http://localhost:8080](http://localhost:8080/)> ``
 
 ### Diário de bordo
 
