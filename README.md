@@ -115,6 +115,7 @@ Desenvolver uma API com framework Spring que serve uma rede social chamada Insta
 - [x] Excluir comentário
 - [x] Segurança da aplicação
 - [ ] Acesso a aplicação
+- [x] Documentação
 
 ### Problemas encontrados
 
