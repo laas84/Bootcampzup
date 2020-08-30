@@ -16,8 +16,6 @@
 
 :ballot_box_with_check: Pré-requisitos e como rodar a aplicação
 
-:ballot_box_with_check:  Database
-
 :ballot_box_with_check: Features​ 
 
 :ballot_box_with_check: Dependências e Libs instaladas​ 
@@ -69,7 +67,8 @@ Desenvolver uma API com framework Spring que serve uma rede social chamada Insta
 - [JDK14: Necessário para executar o projeto Java](https://www.oracle.com/java/technologies/javase-downloads.html)
 - [Spring Initializr : Para fornecer a interface com configurações pré estabelecidas](https://start.spring.io/)
 - [Eclipse:  IDE para desenvolvimento do projeto](https://www.eclipse.org/downloads/)
-- [O H2 foi escolhido pela simplicidade e praticidade] (https://www.h2database.com) 
+- [H2:  Escolhido pela simplicidade e praticidade](https://www.h2database.com)
+
 
 `` # Clone este repositório $ git clone <https://github.com/laas84/Bootcampzup.git> ``
 
