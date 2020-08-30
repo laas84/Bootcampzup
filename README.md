@@ -14,9 +14,7 @@
 
 :ballot_box_with_check:  O que a plataforma é capaz de fazer
 
-:ballot_box_with_check: Pré-requisitos
-
-:ballot_box_with_check: Como rodar a aplicação
+:ballot_box_with_check: Pré-requisitos e omo rodar a aplicação
 
 :ballot_box_with_check:  Database
 
