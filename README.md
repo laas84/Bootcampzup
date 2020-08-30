@@ -16,9 +16,7 @@
 
 :ballot_box_with_check: Pré-requisitos e como rodar a aplicação
 
-:ballot_box_with_check: Features​ 
-
-:ballot_box_with_check: Dependências e Libs instaladas​ 
+:ballot_box_with_check: Dependências instaladas​ 
 
 :ballot_box_with_check: Problemas encontrados​ 
 
@@ -64,7 +62,7 @@ Desenvolver uma API com framework Spring que serve uma rede social chamada Insta
 
 #### Pré-requisitos e como rodar a aplicação
 
-- [JDK14: Necessário para executar o projeto Java](https://www.oracle.com/java/technologies/javase-downloads.html)
+- [JDK11: Necessário para executar o projeto Java](https://www.oracle.com/java/technologies/javase-downloads.html)
 - [Spring Initializr : Para fornecer a interface com configurações pré estabelecidas](https://start.spring.io/)
 - [Eclipse:  IDE para desenvolvimento do projeto](https://www.eclipse.org/downloads/)
 - [H2:  Banco de dados escolhido pela simplicidade e praticidade](https://www.h2database.com)
@@ -80,6 +78,18 @@ Desenvolver uma API com framework Spring que serve uma rede social chamada Insta
 
 `` # O servidor inciará na porta:8080 - acesse <http://localhost:8080/> ``
 
+#### Depências instaladas
+
+###### Framework: Spring boot
+Data JPA 
+Security
+H2
+DevTools
+
+###### Externas: 
+jjwt
+springfox-swagger2
+swagger-ui
 
 ### Diário de bordo
 
