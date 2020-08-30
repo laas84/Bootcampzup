@@ -22,9 +22,9 @@
 
 :ballot_box_with_check: Problemas encontrados​ 
 
-:ballot_box_with_check: ​  Tarefas em aberto
-
 :ballot_box_with_check: Diário de bordo
+
+:ballot_box_with_check: ​  Tarefas em aberto
 
 #### Descrição do Projeto 
 
