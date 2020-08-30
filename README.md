@@ -24,7 +24,7 @@
 
 :ballot_box_with_check: Diário de bordo
 
-:ballot_box_with_check: ​  Tarefas em aberto
+:ballot_box_with_check: ​  Próximas tarefas
 
 #### Descrição do Projeto 
 
@@ -165,17 +165,44 @@ Nesse dia, ao receber o e-mail, entendi a tarefa e analisei as palavras chaves p
 >*Dia 2 da primeira sprint*
   - Criação de classes e interfaces;
   - Implementação de CRUD;
-  - Estudo de documentação de Spring Security;
+  - Estudo de documentação de Spring Security.
   
  ###### Dia 5 - 28/08/2020 
  
  >*Dia 3 da primeira sprint*
   - Implementação de segurança;
-  - Implementação do Swagger;
+  - Implementação do Swagger.
 
  ###### Dia 6 - 29/08/2020
  
  >*Dia 4 da primeira sprint*
-  - Detecção de erro ao acessar o swagger
-  - 
+  - Detecção de erro ao acessar o swagger;
+  - Revisão do código;
+  - Pesquisa para solução do erro;
+  - Alteração de código;
+  - Reimplementação do código;
+  - Persistência do erro.
+  
+   ###### Dia 7 - 30/08/2020
+ 
+  >*Dia 5 da primeira sprint*
+   - Busca de possíveis novas soluções do erro;
+   - Documentação.
+ 
+ #### Próximas tarefas
+ 
+  ### 
+
+- [ ] Reimplementação do código
+- [ ] Validação de usuário
+- [ ] Criar conta pública e privada
+- [ ] Criar repositório de conteúdo do usuário
+- [ ] Criar relacionamento entre usuários
+- [ ]  Seguir usuário
+- [ ] 
+- [ ] *Unfollow* usuário
+- [ ] Receber notificação
+- [ ] Marcação de usuário
+- [ ] Criar mensagem privada
+- [ ] Teste da mvp
 **** PROXIMAS SPRINTS : TESTES e DTO explicar pq nao teve
