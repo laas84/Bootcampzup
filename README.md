@@ -113,7 +113,7 @@ Desenvolver uma API com framework Spring que serve uma rede social chamada Insta
 - [x] Buscar conteúdo
 - [x] Comentar conteúdo
 - [x] Excluir comentário
-- [x] Segurança da aplicação
+- [x] Configuração de segurança da aplicação
 - [ ] Acesso a aplicação
 - [x] Documentação
 
@@ -163,16 +163,19 @@ Nesse dia, ao receber o e-mail, entendi a tarefa e analisei as palavras chaves p
 ###### Dia 4 - 27/08/2020
 
 >*Dia 2 da primeira sprint*
-  - Criação de classes e interfaces
-  - Implementação de CRUD
-  - Estudo de documentação de Spring Security
+  - Criação de classes e interfaces;
+  - Implementação de CRUD;
+  - Estudo de documentação de Spring Security;
   
  ###### Dia 5 - 28/08/2020 
  
  >*Dia 3 da primeira sprint*
-  - Implementação da validação e segurança;
+  - Implementação de segurança;
   - Implementação do Swagger;
 
-
-
+ ###### Dia 6 - 29/08/2020
+ 
+ >*Dia 4 da primeira sprint*
+  - Detecção de erro ao acessar o swagger
+  - 
 **** PROXIMAS SPRINTS : TESTES e DTO explicar pq nao teve
