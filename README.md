@@ -191,6 +191,7 @@ Nesse dia, ao receber o e-mail, entendi a tarefa e analisei as palavras chaves p
  
  #### Próximas tarefas
  
+ > Tarefas planejadas para *Sprint* 2
   ### 
 
 - [ ] Melhoria no código
