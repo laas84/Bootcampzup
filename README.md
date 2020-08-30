@@ -102,7 +102,7 @@ Desenvolver uma API com framework Spring que serve uma rede social chamada Insta
 
  ### Features  
  
-> Tarefas planejadas na Sprint 1
+> Tarefas planejadas na *Sprint* 1
 
 - [x] Conectar o  banco de dados ao código 
 - [x] Inserção de usuário
@@ -118,13 +118,13 @@ Desenvolver uma API com framework Spring que serve uma rede social chamada Insta
 
 ### Problemas encontrados
 
-O problema encontrado no projeto foi ao tentar acessar o swagger pela porta 8080, ao acessar a url http://localhost:8080/swagger-ui.html o navegador direciona automaticamente para a url de login: http://localhost:8080/login , no entanto todas as alterações de código foram feitas na classe SecurityConfiguration.java: 
+O problema encontrado no projeto foi que, ao tentar acessar o swagger pela porta 8080, pela url http://localhost:8080/swagger-ui.html o navegador direciona automaticamente para a url de login: http://localhost:8080/login , no entanto todas as alterações de código foram feitas na classe SecurityConfiguration.java: 
 
 ```
 .and().csrf().disable()
 .sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS)
 ```
-
+O código foi revisado, reimplementado e o erro persistiu. Sem tempo hábil para demais soluções, visto que esse problema foi detectado no 4º dia da *Sprint* 1, ao analisar o quão primordial ela é para o andamento das próximas *Sprints*, foi decidido 
 ### Diário de bordo
 
 ------
@@ -134,8 +134,9 @@ O problema encontrado no projeto foi ao tentar acessar o swagger pela porta 8080
 Nesse dia, ao receber o e-mail, entendi a tarefa e analisei as palavras chaves para decidir como organizaria o meu projeto: "5 dias" e "prioridades", logo, decidi basear meu projeto em um projeto ágil, pois sabia que não conseguiria terminar o projeto em 5 dias, mas poderia documentar os próximos passos a cada semana (As sprints). Para o meu projeto, eu mesma fui o Product Owner, o Scrum Master e o time de desenvolvimento.
 
 - Coleta de dados: O diferencial do instagram e suas funcionalidades
-- Entender como eu organizaria o Backlog do Produto e o que seria prioridade diante das funcionalidades que eu levantei
-- Estimei em 4 sprints o projeto, com a primeira *release* com 1 *sprint* (o código postado).
+- Planejamento da *Sprint*
+ - Entender como eu organizaria o Backlog do Produto e o que seria prioridade diante das funcionalidades que eu levantei
+ - Estimei em 4 *Sprints* o projeto, com a primeira *release* com 1 *sprint* (o código postado).
 
 ###### Dia 2 - 25/08/2020
 
