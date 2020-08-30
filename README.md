@@ -193,16 +193,15 @@ Nesse dia, ao receber o e-mail, entendi a tarefa e analisei as palavras chaves p
  
   ### 
 
-- [ ] Reimplementação do código
+- [ ] Melhoria no código
 - [ ] Validação de usuário
 - [ ] Criar conta pública e privada
 - [ ] Criar repositório de conteúdo do usuário
 - [ ] Criar relacionamento entre usuários
 - [ ]  Seguir usuário
-- [ ] 
 - [ ] *Unfollow* usuário
 - [ ] Receber notificação
 - [ ] Marcação de usuário
 - [ ] Criar mensagem privada
 - [ ] Teste da mvp
-**** PROXIMAS SPRINTS : TESTES e DTO explicar pq nao teve
+
