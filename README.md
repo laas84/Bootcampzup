@@ -131,7 +131,7 @@ O código foi revisado, reimplementado e o erro persistiu. Sem tempo hábil para
 
 ###### Dia 1 - 24/08/2020
 
-Nesse dia, ao receber o e-mail, entendi a tarefa e analisei as palavras chaves para decidir como organizaria o meu projeto: "5 dias" e "prioridades", logo, decidi basear meu projeto em um projeto ágil, pois sabia que não conseguiria terminar o projeto em 5 dias, mas poderia documentar os próximos passos a cada semana (As sprints). Para o meu projeto, eu mesma fui o Product Owner, o Scrum Master e o time de desenvolvimento.
+Nesse dia, ao receber o e-mail, entendi a tarefa e analisei as palavras chaves para decidir como organizaria o meu projeto: "5 dias" e "prioridades", logo, decidi basear meu projeto em um projeto ágil, pois sabia que não conseguiria terminar o projeto em 5 dias, mas poderia documentar os próximos passos a cada semana (As sprints). Para o meu projeto, de forma lúdica, eu mesma fui o Product Owner, o Scrum Master e o time de desenvolvimento.
 
 - Coleta de dados: O diferencial do instagram e suas funcionalidades
 - Planejamento da *Sprint*:
