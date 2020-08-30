@@ -67,7 +67,7 @@ Desenvolver uma API com framework Spring que serve uma rede social chamada Insta
 - [JDK14: Necessário para executar o projeto Java](https://www.oracle.com/java/technologies/javase-downloads.html)
 - [Spring Initializr : Para fornecer a interface com configurações pré estabelecidas](https://start.spring.io/)
 - [Eclipse:  IDE para desenvolvimento do projeto](https://www.eclipse.org/downloads/)
-- [H2:  Escolhido pela simplicidade e praticidade](https://www.h2database.com)
+- [H2:  Banco de dados escolhido pela simplicidade e praticidade](https://www.h2database.com)
 
 
 `` # Clone este repositório $ git clone <https://github.com/laas84/Bootcampzup.git> ``
